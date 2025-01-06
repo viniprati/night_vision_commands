@@ -95,3 +95,11 @@ Exemplo de comando:
   ✎◦.• [Anexo](https://tenor.com/bVbJ4.gif)
 
   【 🌙 】━━━━━≼◦Night Vision◦≽━━━━━【 🌙 】**
+
+
+# Aviso de Propriedade
+Este bot é propriedade exclusiva do **Night Vision**. Qualquer utilização, cópia ou distribuição sem permissão prévia poderá resultar em problemas legais. Se você deseja usar ou modificar o bot, por favor entre em contato para obter autorização.
+
+# Contato
+Telefone: +55 (27) 998235428
+Discord ID: viniciuspratimachado
